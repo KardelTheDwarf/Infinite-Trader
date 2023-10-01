@@ -1,5 +1,5 @@
-# infinitetrader
+# Infinite Trader
 
-Source code of the mod, feel free to do what you want.
+Infinite trader mod for RimWorld.
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2492682398
